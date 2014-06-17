@@ -1,0 +1,33 @@
+{
+  "name": "node-mapbox",
+  "version": "0.0.1",
+  "description": "Nodejs SDK for mapbox",
+  "keywords": [
+    "mapbox",
+    "map",
+    "api",
+    "map"
+  ],
+  "author": "Philmod <philippe.modard@gmail.com>",
+  "homepage": "http://github.com/philmod/node-mapbox",
+  "engines": {
+    "node": ">= v0.8.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "should": "",
+    "mocha": ""
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "main": "index",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Philmod/node-mapbox.git"
+  },
+  "license": "BSD"
+}
